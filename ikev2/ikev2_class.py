@@ -9,7 +9,7 @@ import logging
 from dh.diffiehellman import DiffieHellman
 from .exceptions import PRFError
 from cipher.AES_CBC import AES_CBC_Cipher
-import Cryptodome.Hash as cryp
+import Crypto.Hash as cryp
 import utils.epdg_utils as eutils
 logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
 from scapy.all import *

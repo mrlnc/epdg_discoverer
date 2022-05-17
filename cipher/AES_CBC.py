@@ -1,6 +1,6 @@
 import base64, binascii
-from Cryptodome import Random
-from Cryptodome.Cipher import AES
+from Crypto import Random
+from Crypto.Cipher import AES
 
 class AES_CBC_Cipher(object):
 

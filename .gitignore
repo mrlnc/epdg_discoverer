@@ -5,3 +5,6 @@ test_ike.py
 .vscode/settings.json
 tmp/*
 *.pcap
+.venv
+network-list.txt
+results.txt

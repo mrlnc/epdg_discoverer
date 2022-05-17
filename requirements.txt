@@ -1,0 +1,14 @@
+beautifulsoup4==4.11.1
+bs4==0.0.1
+dnspython==2.2.1
+html5lib==1.1
+lxml==4.8.0
+numpy==1.22.3
+pandas==1.4.2
+pycryptodome==3.14.1
+python-dateutil==2.8.2
+pytz==2022.1
+scapy==2.4.5
+six==1.16.0
+soupsieve==2.3.2.post1
+webencodings==0.5.1
